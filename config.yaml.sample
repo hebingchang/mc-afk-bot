@@ -1,0 +1,7 @@
+yggdrasil:
+  endpoint: "https://yggdrasil.endpoint/api/yggdrasil"
+  email: "your_email@sjtu.edu.cn"
+  password: "your_password"
+
+server:
+  address: "1.18.server.address"
